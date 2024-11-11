@@ -1,4 +1,5 @@
 # Deep-learning-notes
+
 #### 2016-04
 
 - Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves [[arXiv](https://arxiv.org/abs/1604.02038)]
