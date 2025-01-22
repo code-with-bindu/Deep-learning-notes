@@ -13,6 +13,7 @@
 
 #### 2016-03
 
+
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arXiv](http://arxiv.org/abs/1603.08575)]
 - Recurrent Batch Normalization [[arXiv](http://arxiv.org/abs/1603.09025)]
 - Neural Language Correction with Character-Based Attention [[arXiv](http://arxiv.org/abs/1603.09727)]
